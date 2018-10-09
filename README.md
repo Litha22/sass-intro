@@ -1,15 +1,56 @@
-# sass-intro
-Being introduced to Sass, a new and more efficient way to style webpages and websites.
+# Intro To SASS
 
-step 1 download and install ruby (rubyisntaller.org)
-step 2 install sass
-step 3 open command line
-step 4 run prompt "gem install sass"
-step 3 create base folder structure
-step 4 run "scss --watch scss:css" prompt
-step 5 create a "style.scss"
-step 6 start styling the webpage using the main.scss
-Note: Never touch the css folder and files as the .scss styles are automatically styled onto .css file. 
+SASS, an Introduction to it's functionality and application.
+
+SASS is a pre-processor, a scripting language that compiles into css, but adds the functionality of using variables and nesting code.
+
+## Setting up your workspace
+
+- Download and Install Ruby here 'https://rubyinstaller.org'
+- Open your terminal and launch the command 'gem install sass'
+- Create your base folder structure (css, scss)
+- Within your project folder, using terminal, launch the command 'sass --watch scss:css'
+
+## Live Link
+- https://evanryk.github.io/2018-10-09/
+
+## Prevalent Technologies Used
+
+ - SASS
+ - CSS
+ - Ruby
+
+### Other Technologies Used
+
+Technologies and Tools Used:
+
+```
+Languages:
+
+- CSS
+- SASS
+- HTML
+
+```
+```
+Tools:
+
+- VS Code
+- GitBash
+- SASSmeister
+
+```
+
+### Changelog
+
+2018-10-09:
+- Base folders added
+- Readme Created
+- Live Link Created
+
+## Contributors
+
+Evan Christians - 2018
 
 
 visit site here:  https://litha22.github.io/sass-intro/
