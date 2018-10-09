@@ -12,7 +12,7 @@ SASS is a pre-processor, a scripting language that compiles into css, but adds t
 - Within your project folder, using terminal, launch the command 'sass --watch scss:css'
 
 ## Live Link
-- https://evanryk.github.io/2018-10-09/
+- https://litha22.github.io/sass-intro/index.html
 
 ## Prevalent Technologies Used
 
@@ -50,7 +50,7 @@ Tools:
 
 ## Contributors
 
-Evan Christians - 2018
+Litha Nelani - 2018
 
 
 visit site here:  https://litha22.github.io/sass-intro/
